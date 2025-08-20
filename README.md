@@ -1,5 +1,9 @@
 # Mingle 📱
 
+
+https://github.com/user-attachments/assets/4a0a4942-3d10-41e3-8156-71eca8307bb9
+
+
 A modern iOS dating app clone built with SwiftUI, featuring profile card swiping functionality similar to Tinder.
 
 ## 🎯 Features
