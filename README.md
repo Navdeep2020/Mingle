@@ -1,4 +1,4 @@
-# ProfileCardSwipe 📱
+# Mingle 📱
 
 A modern iOS dating app clone built with SwiftUI, featuring profile card swiping functionality similar to Tinder.
 
